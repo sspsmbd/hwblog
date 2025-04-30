@@ -2,8 +2,7 @@ Struggling with your homework? You've come to the right place!
 
 Scan the QR code on your worksheet, and we’ll help you figure things out — step by step.
 
----
-
+&nbsp;
 ## 🚀 What You Can Do Here
 
 - 📷 **Scan your QR code**  
@@ -15,7 +14,8 @@ Scan the QR code on your worksheet, and we’ll help you figure things out — s
 - ✅ **Check your answers**  
   See if you’re on the right track and learn from your mistakes.
 
----
+&nbsp;
+
 
 ## 👨‍🏫 Why This Site Exists
 
@@ -25,12 +25,14 @@ We built this website to make homework *less stressful* and *more educational*. 
 - Build problem-solving skills
 - Feel more confident in class
 
----
+&nbsp;
+
 
 > “Education is not the learning of facts, but the training of the mind to think.”  
 > — Albert Einstein
 
----
+&nbsp;
+
 
 🏁 **Ready to get started?**  
 Just scan your homework’s QR code and begin learning!
