@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Purpose
+title: Purpose of this Website
 ---
-
-# 📚 Purpose of This Website
 
 Welcome to our Homework Helper!
 
