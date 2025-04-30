@@ -1,5 +1,3 @@
-## 🎓 Welcome to the Homework Helper!
-
 Struggling with your homework? You've come to the right place!
 
 Scan the QR code on your worksheet, and we’ll help you figure things out — step by step.
