@@ -12,18 +12,18 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% assign author = page.author | default: site.author %}
-      {%- if author -%}
+<!--       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}</p> -->
   </header>
 
-  <div class="share-links">
+<!--   <div class="share-links">
     {% include sharelinks.html %}
-  </div>
+  </div> -->
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    {% include navlinks.html %}
+<!--     {% include navlinks.html %} -->
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
