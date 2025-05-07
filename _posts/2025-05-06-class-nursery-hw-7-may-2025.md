@@ -1,3 +1,3 @@
 # Solution of Class Nursery -  7 May 2025
 
-### Homework will be updated soon
+### All homework in Notebook or Textbook
